@@ -1,3 +1,5 @@
+/* authored by ian as a java beginner project 30/09/2024 */
+
 import java.util.Scanner;
 public class Hello
 {
